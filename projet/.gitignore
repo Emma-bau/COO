@@ -1,2 +1,6 @@
 /DataManager.class
 /PseudoManager.class
+/Agent.class
+/IDManager.class
+/NetworkManager.class
+/InterfaceManager.class
